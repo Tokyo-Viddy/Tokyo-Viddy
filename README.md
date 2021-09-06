@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tokyo-Viddy
 - 👀 I’m interested in IT and everyting I don't know (which is a lot!)
-- 🌱 I’m currently learning Ruby, Rails, Javascript, CSS, HTML...
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on all of the above and more!
-- 📫 How to reach me: Github is the easiest way.
+- 📫 How to reach me: Github is the easiest way, or you can find me through LinkedIn at https://www.linkedin.com/in/david-gregorato/
 
 <!---
 Tokyo-Viddy/Tokyo-Viddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
