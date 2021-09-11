@@ -6,7 +6,7 @@
 <h3 align="center">I'm a full stack web developer living in Tokyo, Japan!</h3>
 
 - I’m interested in IT, cycling, camping, hiking, board games, and much more.
-- I’m currently learning React and I’m looking to collaborate with people to help me grow my skills.
+- I’m currently learning rspec and I’m looking to collaborate with people to help me grow my skills.
 - How to reach me: Github is the easiest way, or you can send me an email at **david@gregorato.com**
 
 - 📓 Click [here](https://ebony-tablecloth-847.notion.site/David-Gregorato-Web-Development-ad1a3030f9874354b6a675fcbae800a7) to see my portfolio.
