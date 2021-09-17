@@ -28,7 +28,6 @@
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
-https://rspec.info/images/logo_ogp.png
 
 <h3 align="center">Social Media</h3>
 <div align="center">
