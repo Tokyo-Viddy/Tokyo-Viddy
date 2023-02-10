@@ -3,13 +3,11 @@
 </head>
 
 <h1 align="center">Hi I'm Viddy (David Gregorato)</h1>
-<h3 align="center">I'm a full stack web developer living in Tokyo, Japan!</h3>
+<h3 align="center">I'm a RoR enthusiast, project manager/Scrum Master living in Tokyo, Japan!</h3>
 
-- I’m interested in IT, cycling, camping, hiking, board games, and much more.
-- I’m currently learning rspec and I’m looking to collaborate with people to help me grow my skills.
+- I’m interested in IT, cycling, camping, hiking, board games, bouldering, and much more.
+- I’m always looking to grow and currently trying to better myself as a product owner.
 - How to reach me: Github is the easiest way, or you can send me an email at **david@gregorato.com**
-
-- 📓 Click [here](https://ebony-tablecloth-847.notion.site/David-Gregorato-Web-Development-ad1a3030f9874354b6a675fcbae800a7) to see my portfolio.
   
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
 
