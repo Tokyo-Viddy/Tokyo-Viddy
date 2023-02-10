@@ -7,7 +7,7 @@
 
 - I’m interested in IT, cycling, camping, hiking, board games, bouldering, and much more.
 - I’m always looking to grow and currently trying to better myself as a product owner.
-- How to reach me: Github is the easiest way, or you can send me an email at **david@gregorato.com**
+- How to reach me: Github is the easiest way, or find me on LinkedIn
   
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
 
@@ -29,7 +29,7 @@
 
 <h3 align="center">Social Media</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-gregorato/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin logo" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/david-gregorato/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG9.png" alt="Linkedin logo" height="40" width="40" /></a>
 
 
 
